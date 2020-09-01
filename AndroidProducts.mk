@@ -16,3 +16,5 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/aosp_taimen.mk \
+    $(LOCAL_DIR)/maru_taimen.mk \
+

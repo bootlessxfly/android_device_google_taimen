@@ -1,3 +1,4 @@
+import init.maru.rc
 on late-fs
     # boot time fs tune
     write /sys/block/sda/queue/iostats 0
