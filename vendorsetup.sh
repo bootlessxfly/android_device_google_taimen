@@ -15,3 +15,4 @@
 #
 
 add_lunch_combo aosp_taimen-userdebug
+add_lunch_combo maru_taimen-userdebug
