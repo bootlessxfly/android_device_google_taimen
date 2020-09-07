@@ -1,6 +1,6 @@
 # Include LineageOS stuff
 
-$(call inherit-product, device/google/taimen/lineage.mk)
+$(call inherit-product, device/google/taimen/lineage_taimen.mk)
 
 # -----------------------------------------------------------------------------
 # Include Maru stuff
